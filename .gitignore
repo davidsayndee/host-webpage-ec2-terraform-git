@@ -1,0 +1,11 @@
+# Ignore Terraform state files
+*.tfstate
+*.tfstate.backup
+.terraform/
+
+# Ignore Terraform plan output
+tfplan
+
+# Ignore SSH keys (if any)
+*.pem
+*.key
