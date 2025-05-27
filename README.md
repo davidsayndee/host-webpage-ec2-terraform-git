@@ -1,6 +1,6 @@
 # Host Webpage on AWS EC2 with Terraform
 
-This project uses **Terraform** to provision an AWS EC2 instance that automatically hosts a simple HTML webpage. It's a practical Infrastructure as Code (IaC) example showing automation, cloud provisioning, and server configuration — ideal for IT support, DevOps, or cloud engineering portfolios.
+This project uses **Terraform** to provision an AWS EC2 instance that automatically hosts a simple HTML webpage. It's a practical Infrastructure as Code (IaC) example showing automation, cloud provisioning, and server configuration — demostrating my understanding of DevOps, or cloud engineering.
 
 ---
 
